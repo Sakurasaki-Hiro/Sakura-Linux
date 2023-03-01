@@ -27,7 +27,7 @@
 ②以下のコマンドを実行する
 ```
 cd ダウンロード
-sudo bash pacup-installer.sh
+sudo bash pacup-.sh
 ```
 
 <br>
